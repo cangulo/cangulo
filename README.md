@@ -4,7 +4,7 @@
 - 🏠️ I live in Barcelona 🇪🇸 but I born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecomunication Enginer at [UPC](https://www.upc.edu/en/)
 - 🌱 I’m currently working in [Ohpen](https://ohpen.com)
-- ⌛️ I have 5+ years of experience coding. Mainly dotnet in the next companies:
+- ⌛️ I have 5+ years of experience. Mainly dotnet in the next companies:
     - Avanade (2 years) -> worked with SharePoint (ouchh 🤕)
     - Safened / FourthLine (1.5 years)
     - Ohpen ( currently, +2 years, I should create something so the counting updates 🤔😁 )
