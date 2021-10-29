@@ -15,7 +15,7 @@
     - 🧾 on git, a few [alias](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Alias-de-Git)
 - 💬 Ask me about personal projects and hobbies 🕺
 - 📫 How to reach me? ->  cangulo_msg@outlook.com
-- ⚡ Fun facts: I like to ask for sayings in your country or family, I think they reflect the culture:
+- ⚡ Fun facts: I like asking for sayings in your country or family, I think they reflect the culture:
     - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref](https://www.donquijote.org/spanish-language/sayings/) )
     - `Está peluo` -> `it is hairy` (Venezuela, [ref](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/) )
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
