@@ -1,14 +1,14 @@
 # Hola! I'm Carlos 👋
 
 - 🔭 I’m Carlos Angulo Mascarell (cangulo)
-- 🏠️ I live in Barcelona 🇪🇸 but I born in Venezuela 🇻🇪
+- 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
-- 🌱 I’m currently working in [Ohpen](https://ohpen.com)
+- 🌱 I’m currently working at [Ohpen](https://ohpen.com)
 - ⌛️ I have 5+ years of experience. Mainly dotnet in the next companies:
     - Avanade (2 years) -> worked with SharePoint (ouchh 🤕)
     - Safened / FourthLine (1.5 years)
     - Ohpen ( currently, +2 years, I should create something so the counting updates 🤔😁 )
-- 🐧 I use (**Elementary OS**)[https://elementary.io] as a personal SO, it is a ubuntu based distro with a beutiful UI and powerfull performance. Try it!
+- 🐧 I use (**Elementary OS**)[https://elementary.io] as a personal OS, it is a Ubuntu based distro with a beautiful UI and powerful performance. Try it!
 - 💻️ My personal setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
     - 🐧 (oh my zsh)[https://ohmyz.sh] with many custom functions to be more productive.
@@ -22,7 +22,7 @@
 
 # Those are my stats in GH
 
-![Carlos Angulo's github stats](https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true)
+![Carlos Angulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true)
 
 
 <!-- future things to post:
