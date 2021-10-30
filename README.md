@@ -5,10 +5,10 @@
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
 - 🌱 I’m currently working at [Ohpen](https://ohpen.com)
 - ⌛️ I have 5+ years of experience. Mainly dotnet in the next companies:
-    - Avanade (2 years) -> worked with SharePoint (ouchh 🤕)
+    - Avanade (2 years) -> worked with SharePoint (yes, ouch 🤕)
     - Safened / FourthLine (1.5 years)
     - Ohpen ( currently, +2 years, I should create something so the counting updates 🤔😁 )
-- 🐧 I use (**Elementary OS**)[https://elementary.io] as a personal OS, it is a Ubuntu based distro with a beautiful UI and powerful performance. Try it!
+- 🐧 I use (**Elementary OS**)[https://elementary.io] as a personal OS, it is a Ubuntu-based distro with a beautiful UI and powerful performance. Try it!
 - 💻️ My personal setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
     - 🐧 (oh my zsh)[https://ohmyz.sh] with many custom functions to be more productive.
@@ -19,6 +19,7 @@
     - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref](https://www.donquijote.org/spanish-language/sayings/) )
     - `Está peluo` -> `it is hairy` (Venezuela, [ref](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/) )
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
+    - `Der April macht was er will` -> `April does what it wants` (Netherland, [ref](https://www.proz.com/kudoz/german-to-english/idioms-maxims-sayings/1310497-der-april-macht-was-er-will.html) )
 
 # Those are my stats in GH
 
