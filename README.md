@@ -19,7 +19,7 @@
     - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref](https://www.donquijote.org/spanish-language/sayings/) )
     - `Está peluo` -> `it is hairy` (Venezuela, [ref](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/) )
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
-    - `Der April macht was er will` -> `April does what it wants` (Netherland, [ref](https://www.proz.com/kudoz/german-to-english/idioms-maxims-sayings/1310497-der-april-macht-was-er-will.html) )
+    - `Der April macht was er will` -> `April does what it wants` (German, [ref](https://www.proz.com/kudoz/german-to-english/idioms-maxims-sayings/1310497-der-april-macht-was-er-will.html) )
 
 # Those are my stats in GH
 
