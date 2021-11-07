@@ -31,7 +31,7 @@
 # Contact
 
 [linkedin]: https://www.linkedin.com/in/angulomascarell
-[twitter]: https://twitter.com/angulomascarell) 
+[twitter]: https://twitter.com/angulomascarell
 [github]: https://github.com/cangulo
 
 # Those are my stats in GH
