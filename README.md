@@ -2,9 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/angulomascarell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fangulomascarell&screen_name=angulomascarell)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="angulomascarell" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/angulomascarell?trk=profile-badge">Carlos Miguel Angulo Mascarell</a></div>
-
 - 🔭 I’m Carlos Angulo Mascarell (cangulo)
 - 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
@@ -37,11 +34,11 @@
 
 <!-- Icons -->
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 
 <br />
 
