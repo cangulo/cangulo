@@ -21,6 +21,19 @@
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
     - `Der April macht was er will` -> `April does what it wants` (German, [ref](https://www.proz.com/kudoz/german-to-english/idioms-maxims-sayings/1310497-der-april-macht-was-er-will.html) )
 
+# Personal Blog
+
+[cangulo.github.io](https://cangulo.github.io/)
+[Recent Posts](https://cangulo.github.io/blog)
+[Cheatsheets](https://cangulo.github.io/cheatsheets)
+[Meepups](https://cangulo.github.io/meetups)
+
+# Contact
+
+[linkedin]: https://www.linkedin.com/in/angulomascarell
+[twitter]: https://twitter.com/angulomascarell) 
+[github]: https://github.com/cangulo
+
 # Those are my stats in GH
 
 ![Carlos Angulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true)
