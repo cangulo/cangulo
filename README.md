@@ -24,17 +24,31 @@
 # Personal Blog
 
 [cangulo.github.io](https://cangulo.github.io/)
-[Recent Posts](https://cangulo.github.io/blog)
-[Cheatsheets](https://cangulo.github.io/cheatsheets)
-[Meepups](https://cangulo.github.io/meetups)
+* [Recent Posts](https://cangulo.github.io/blog)
+* [Cheatsheets](https://cangulo.github.io/cheatsheets)
+* [Meepups](https://cangulo.github.io/meetups)
 
 # Contact
 
-[linkedin]: https://www.linkedin.com/in/angulomascarell
-[twitter]: https://twitter.com/angulomascarell
-[github]: https://github.com/cangulo
+<!-- Icons -->
 
-# Those are my stats in GH
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<br />
+
+<!-- Reference for the icons-->
+
+[linkedin]: https://www.linkedin.com/in/angulomascarell "LinkedIn"
+[twitter]: https://twitter.com/angulomascarell "@angulomascarell"
+[github]: https://github.com/cangulo "@cangulo"
+
+<br />
+
+# My stats in GH
 
 ![Carlos Angulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true)
 
@@ -46,8 +60,3 @@
 
 
  -->
-
-<!-- Import Icons -->
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
