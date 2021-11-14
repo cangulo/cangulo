@@ -28,7 +28,7 @@
 [cangulo.github.io](https://cangulo.github.io/)
 * [Recent Posts](https://cangulo.github.io/blog)
 * [Cheatsheets](https://cangulo.github.io/cheatsheets)
-* [Meepups](https://cangulo.github.io/meetups)
+* [Meetups](https://cangulo.github.io/meetups)
 
 # Contact
 
