@@ -38,15 +38,12 @@
 
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
-
 <br />
 
 <!-- Reference for the icons-->
 
 [linkedin]: https://www.linkedin.com/in/angulomascarell "LinkedIn"
 [twitter]: https://twitter.com/angulomascarell "@angulomascarell"
-[github]: https://github.com/cangulo "@cangulo"
 
 <br />
 
