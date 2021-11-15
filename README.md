@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/angulomascarell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fangulomascarell&screen_name=angulomascarell)
 
 - 🔭 I’m Carlos Angulo Mascarell (cangulo)
-- 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
+- 🏠️ I live in Barcelona 🇪🇸 and I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
 - 🌱 I’m currently working at [Ohpen](https://ohpen.com)
 - ⌛️ I have 5+ years of experience. Mainly dotnet in the next companies:
