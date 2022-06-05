@@ -29,6 +29,26 @@
 * [Recent Posts](https://cangulo.github.io/blog)
 * [Cheatsheets](https://cangulo.github.io/cheatsheets)
 * [Meetups](https://cangulo.github.io/meetups)
+* [Projects](https://cangulo.github.io/projects)
+
+# Projects and Organizations
+
+* [cangulo-actions](https://github.com/cangulo-actions): Organization for my gh actions
+  * [cangulo.nuke.releasecreator](https://github.com/cangulo-actions/cangulo.nuke.releasecreator)
+  * [cangulo.nuke.prcommitsvalidations](https://github.com/cangulo-actions/cangulo.nuke.prcommitsvalidations )
+  * [cangulo.js.prcommitsvalidator](https://github.com/cangulo-actions/cangulo.js.prcommitsvalidator)
+* [cangulo-nugets](https://github.com/cangulo-nugets): Organization for my nuget packages
+  * [cangulo.common.testing](https://github.com/cangulo-nugets/cangulo.common.testing)
+  * [cangulo.changelog](https://github.com/cangulo-nugets/cangulo.changelog)
+  * [cangulo.changelog.github.io](https://cangulo-nugets.github.io/cangulo.changelog.github.io/docs) web site where I explain the cangulo.changelog project
+* [cangulo-nuke](https://github.com/cangulo-nuke): Organization for the developmens I have done using [NUKE](https://nuke.build/)
+  * [cangulo.nuke.releasecreator](https://github.com/cangulo-nuke/cangulo.nuke.releasecreator)
+  * [cangulo.nuke.prcommitsvalidations](https://github.com/cangulo-nuke/cangulo.nuke.prcommitsvalidations)
+* [cangulo-templates](https://github.com/cangulo-templates): : Organization for the templates I have created.
+  * [az-scripts-templates](https://github.com/cangulo-templates/az-scripts-templates)
+  * [bash-scripts-and-functions](https://github.com/cangulo-templates/bash-scripts-and-functions)
+  * [linux-terminal-profile](https://github.com/cangulo-templates/linux-terminal-profile)
+
 
 # Contact
 
