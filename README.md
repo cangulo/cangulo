@@ -3,25 +3,24 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/angulomascarell?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fangulomascarell&screen_name=angulomascarell)
 
 - 🔭 I’m Carlos Angulo Mascarell (cangulo)
-- 🏠️ I live in Barcelona 🇪🇸 and I was born in Venezuela 🇻🇪
+- 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
-- 🌱 I’m currently working at [Ohpen](https://ohpen.com)
-- ⌛️ I have 5+ years of experience. Mainly dotnet in the next companies:
+- 🌱 I’m currently working at [Ohpen](https://ohpen.com) as a Platform Engineer
+- ⌛️ I have 7+ years of experience. My previous companies:
     - Avanade (2 years) -> worked with SharePoint (yes, ouch 🤕)
-    - Safened / FourthLine (1.5 years)
-    - Ohpen ( currently, +2 years, I should create something so the counting updates 🤔😁 )
+    - Safened / FourthLine (1.5 years) -> dotnet + AWS
+    - Ohpen ( currently, +3.5 years, I should create something so the counting updates 🤔😁 ) -> dotnet, terraform and AWS
 - 🐧 I use [**Elementary**](https://elementary.io) as a personal OS, it is a Ubuntu-based distro with a beautiful UI and powerful performance. Try it!
-- 💻️ My personal setup includes:
+- 💻️ My setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
     - 🐧 [oh my zsh](https://ohmyz.sh) with many custom functions to be more productive.
     - 🧾 on git, a few [alias](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Alias-de-Git)
 - 💬 Ask me about personal projects and hobbies 🕺
 - 📫 How to reach me? ->  cangulo_msg@outlook.com
-- ⚡ Fun facts: I like asking for sayings in your country or family, I think they reflect the culture:
-    - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref](https://www.donquijote.org/spanish-language/sayings/) )
-    - `Está peluo` -> `it is hairy` (Venezuela, [ref](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/) )
+- ⚡ Fun facts: I like asking people about what sayings they use. Here are some I know:
+    - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref]([https://www.donquijote.org/spanish-language/sayings/](https://www.donquijote.org/spanish-language/sayings/#:~:text=M%C3%A1s%20vale%20ma%C3%B1a%20que%20fuerza)) )
+    - `Te va a morder un peluche` -> `A teddy bear will bite you` (Venezuela, [ref]([https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/#:~:text=8.%20Te%20va%20a%20morder%20un%20peluche%20%7C%20A%20teddy%20bear%20will%20bite%20you)) )
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
-    - `Der April macht was er will` -> `April does what it wants` (German, [ref](https://www.proz.com/kudoz/german-to-english/idioms-maxims-sayings/1310497-der-april-macht-was-er-will.html) )
 
 # Personal Blog
 
