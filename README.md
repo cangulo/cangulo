@@ -9,7 +9,7 @@
 - ⌛️ I have 7+ years of experience. My previous companies:
     - Avanade (2 years) -> worked with SharePoint (yes, ouch 🤕)
     - Safened / FourthLine (1.5 years) -> dotnet + AWS
-    - Ohpen ( currently, +3.5 years, I should create something so the counting updates 🤔😁 ) -> dotnet, terraform and AWS
+    - Ohpen ( currently, +3.5 years) -> dotnet, terraform and AWS
 - 🐧 I use [**Elementary**](https://elementary.io) as a personal OS, it is a Ubuntu-based distro with a beautiful UI and powerful performance. Try it!
 - 💻️ My setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
