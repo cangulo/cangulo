@@ -22,13 +22,11 @@
     - `Te va a morder un peluche` -> `A teddy bear will bite you` (Venezuela, [ref]([https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/#:~:text=8.%20Te%20va%20a%20morder%20un%20peluche%20%7C%20A%20teddy%20bear%20will%20bite%20you)) )
     - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
 
-# Personal Blog
+# Meetups I have been a speaker
 
-[cangulo.github.io](https://cangulo.github.io/)
-* [Recent Posts](https://cangulo.github.io/blog)
-* [Cheatsheets](https://cangulo.github.io/cheatsheets)
-* [Meetups](https://cangulo.github.io/meetups)
-* [Projects](https://cangulo.github.io/projects)
+[serverless-barcelona](https://www.meetup.com/serverless-barcelona/)
+* [Refactoring hundreds of environments with TF - 202310-bcn-serverless-meetup-tf-refactor](https://github.com/cangulo-talks/202310-bcn-serverless-meetup-tf-refactor)
+* [Functionless batch processing with EB - 20240418-bcn-batch-ecs](https://github.com/cangulo-talks/20240418-bcn-batch-ecs)
 
 # Personal GitHub Actions
 
@@ -37,11 +35,13 @@
 * [conventional-commits-validator](https://github.com/cangulo-actions/conventional-commits-validator)
 * [commits-ticket-validator](https://github.com/cangulo-actions/commits-ticket-validator)
 
-# Meetups I have been a speaker
+# Personal Blog
 
-[serverless-barcelona](https://www.meetup.com/serverless-barcelona/)
-* [Refactoring hundreds of environments with TF - 202310-bcn-serverless-meetup-tf-refactor](https://github.com/cangulo-talks/202310-bcn-serverless-meetup-tf-refactor)
-* [Functionless batch processing with EB - 20240418-bcn-batch-ecs](https://github.com/cangulo-talks/20240418-bcn-batch-ecs)
+[cangulo.github.io](https://cangulo.github.io/)
+* [Recent Posts](https://cangulo.github.io/blog)
+* [Cheatsheets](https://cangulo.github.io/cheatsheets)
+* [Meetups](https://cangulo.github.io/meetups)
+* [Projects](https://cangulo.github.io/projects)
 
 # Projects and Organizations
 
