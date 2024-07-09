@@ -6,10 +6,10 @@
 - 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
 - 🌱 I’m currently working at [Ohpen](https://ohpen.com) as a Platform Engineer
-- ⌛️ I have 7+ years of experience. My previous companies:
+- ⌛️ I have 8+ years of experience. My previous companies:
     - Avanade (2 years) -> worked with SharePoint (yes, ouch 🤕)
-    - Safened / FourthLine (1.5 years) -> dotnet + AWS
-    - Ohpen ( currently, +3.5 years) -> dotnet, terraform and AWS
+    - Safened / FourthLine (1.5 years) -> AWS, dotnet 
+    - Ohpen ( currently, +4.5 years) -> terraform, AWS, DataDog, GitHub workflows, python, dotnet
 - 🐧 I use [**Elementary**](https://elementary.io) as a personal OS, it is a Ubuntu-based distro with a beautiful UI and powerful performance. Try it!
 - 💻️ My setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
@@ -30,23 +30,31 @@
 * [Meetups](https://cangulo.github.io/meetups)
 * [Projects](https://cangulo.github.io/projects)
 
+# Personal GitHub Actions
+
+[cangulo-actions](https://github.com/cangulo-actions) Organization for my gh actions
+* [semver](https://github.com/cangulo-actions/semver)
+* [conventional-commits-validator](https://github.com/cangulo-actions/conventional-commits-validator)
+* [commits-ticket-validator](https://github.com/cangulo-actions/commits-ticket-validator)
+
+# Meetups I have been a speaker
+
+[serverless-barcelona](https://www.meetup.com/serverless-barcelona/)
+* [Refactoring hundreds of environments with TF - 202310-bcn-serverless-meetup-tf-refactor](https://github.com/cangulo-talks/202310-bcn-serverless-meetup-tf-refactor)
+* [Functionless batch processing with EB - 20240418-bcn-batch-ecs](https://github.com/cangulo-talks/20240418-bcn-batch-ecs)
+
 # Projects and Organizations
 
-* [cangulo-actions](https://github.com/cangulo-actions): Organization for my gh actions
-  * [cangulo.nuke.releasecreator](https://github.com/cangulo-actions/cangulo.nuke.releasecreator)
-  * [cangulo.nuke.prcommitsvalidations](https://github.com/cangulo-actions/cangulo.nuke.prcommitsvalidations )
-  * [cangulo.js.prcommitsvalidator](https://github.com/cangulo-actions/cangulo.js.prcommitsvalidator)
+* [cangulo-templates](https://github.com/cangulo-templates): : Organization for the templates I have created.
+  * [tf-cicd-template](https://github.com/cangulo-templates/tf-cicd-template)
+  * [az-scripts-templates](https://github.com/cangulo-templates/az-scripts-templates)
+  * [bash-scripts-and-functions](https://github.com/cangulo-templates/bash-scripts-and-functions)
+  * [linux-terminal-profile](https://github.com/cangulo-templates/linux-terminal-profile)
+
 * [cangulo-nugets](https://github.com/cangulo-nugets): Organization for my nuget packages
   * [cangulo.common.testing](https://github.com/cangulo-nugets/cangulo.common.testing)
   * [cangulo.changelog](https://github.com/cangulo-nugets/cangulo.changelog)
   * [cangulo.changelog.github.io](https://cangulo-nugets.github.io/cangulo.changelog.github.io/docs) web site where I explain the cangulo.changelog project
-* [cangulo-nuke](https://github.com/cangulo-nuke): Organization for the developmens I have done using [NUKE](https://nuke.build/)
-  * [cangulo.nuke.releasecreator](https://github.com/cangulo-nuke/cangulo.nuke.releasecreator)
-  * [cangulo.nuke.prcommitsvalidations](https://github.com/cangulo-nuke/cangulo.nuke.prcommitsvalidations)
-* [cangulo-templates](https://github.com/cangulo-templates): : Organization for the templates I have created.
-  * [az-scripts-templates](https://github.com/cangulo-templates/az-scripts-templates)
-  * [bash-scripts-and-functions](https://github.com/cangulo-templates/bash-scripts-and-functions)
-  * [linux-terminal-profile](https://github.com/cangulo-templates/linux-terminal-profile)
 
 
 # Contact
