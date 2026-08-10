@@ -30,13 +30,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true&hide_border=true&count_private=true" alt="cangulo's GitHub stats" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangulo&layout=compact&hide_border=true&langs_count=8" alt="cangulo's top languages" height="165" />
-</p>
-
 # 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
