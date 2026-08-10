@@ -70,14 +70,8 @@
 <!-- Reference for the icons-->
 
 [linkedin]: https://www.linkedin.com/in/angulomascarell "LinkedIn"
-[twitter]: https://twitter.com/angulomascarell "@angulomascarell"
 
 <br />
-
-# My stats in GH
-
-![Carlos Angulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cangulo&show_icons=true)
-
 
 <!-- future things to post:
 
