@@ -3,11 +3,10 @@
 - 🔭 I’m Carlos Angulo Mascarell (cangulo)
 - 🏠️ I live in Barcelona 🇪🇸 but I was born in Venezuela 🇻🇪
 - 👨‍🎓 I studied Telecommunication engineering at [UPC](https://www.upc.edu/en/)
-- 🌱 I’m currently working at [Ohpen](https://ohpen.com) as a Platform Engineer
-- ⌛️ I have 8+ years of experience. My previous companies:
+- 🌱 I’m currently working at [Ohpen](https://ohpen.com) as a Platform Engineer (since 2020)
+- ⌛️ Working in tech since 2016. My previous companies:
     - Avanade (2 years) -> worked with SharePoint (yes, ouch 🤕)
-    - Safened / FourthLine (1.5 years) -> AWS, dotnet 
-    - Ohpen ( currently, +4.5 years) -> terraform, AWS, DataDog, GitHub workflows, python, dotnet
+    - Safened / FourthLine (1.5 years) -> AWS, dotnet
 - 🐧 I use [**Elementary**](https://elementary.io) as a personal OS, it is a Ubuntu-based distro with a beautiful UI and powerful performance. Try it!
 - 💻️ My setup includes:
     - 🪟 WSL, [oh-my-posh](https://ohmyposh.dev) and a lot of PowerShell scripts included in my PS profile as explained [here](https://carlosangulo.es/blog/powershell-serie/2020-08-24-configuring-powershell-profile)
@@ -16,11 +15,29 @@
 - 💬 Ask me about personal projects and hobbies 🕺
 - 📫 How to reach me? ->  cangulo_msg@outlook.com
 - ⚡ Fun facts: I like asking people about what sayings they use. Here are some I know:
-    - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref]([https://www.donquijote.org/spanish-language/sayings/](https://www.donquijote.org/spanish-language/sayings/#:~:text=M%C3%A1s%20vale%20ma%C3%B1a%20que%20fuerza)) )
-    - `Te va a morder un peluche` -> `A teddy bear will bite you` (Venezuela, [ref]([https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/#:~:text=8.%20Te%20va%20a%20morder%20un%20peluche%20%7C%20A%20teddy%20bear%20will%20bite%20you)) )
-    - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherland, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/) )
+    - `Más vale maña que fuerza` -> `Better skill than strength` (Spain, [ref](https://www.donquijote.org/spanish-language/sayings/))
+    - `Te va a morder un peluche` -> `A teddy bear will bite you` (Venezuela, [ref](https://matadornetwork.com/abroad/11-phrases-venezuelans-understand/))
+    - `Doe maar Normaal, dan doe je al gek genoeg` -> `Act normal, as that’s crazy enough` (Netherlands, [ref](https://theculturetrip.com/europe/the-netherlands/articles/7-hilarious-dutch-sayings-you-need-to-know/))
 
-# Meetups I have been a speaker
+## 🛠️ Tech I work with
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+# 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More at [cangulo.github.io/blog](https://cangulo.github.io/blog)
+
+# Meetups where I've spoken
 
 [serverless-barcelona](https://www.meetup.com/serverless-barcelona/)
 * [Refactoring hundreds of environments with TF - 202310-bcn-serverless-meetup-tf-refactor](https://github.com/cangulo-talks/202310-bcn-serverless-meetup-tf-refactor)
@@ -43,7 +60,7 @@
 
 # Projects and Organizations
 
-* [cangulo-templates](https://github.com/cangulo-templates): : Organization for the templates I have created.
+* [cangulo-templates](https://github.com/cangulo-templates): Organization for the templates I have created.
   * [tf-cicd-template](https://github.com/cangulo-templates/tf-cicd-template)
   * [az-scripts-templates](https://github.com/cangulo-templates/az-scripts-templates)
   * [bash-scripts-and-functions](https://github.com/cangulo-templates/bash-scripts-and-functions)
@@ -54,14 +71,11 @@
   * [cangulo.changelog](https://github.com/cangulo-nugets/cangulo.changelog)
   * [cangulo.changelog.github.io](https://cangulo-nugets.github.io/cangulo.changelog.github.io/docs) web site where I explain the cangulo.changelog project
 
-
 # Contact
 
 <!-- Icons -->
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 <br />
 
@@ -70,11 +84,3 @@
 [linkedin]: https://www.linkedin.com/in/angulomascarell "LinkedIn"
 
 <br />
-
-<!-- future things to post:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
- -->
